@@ -1,0 +1,8 @@
+{
+  "domain": "teste",
+  "name": "Teste",
+  "codeowners": [
+    "@dougiteixeira"
+  ],
+  "version": "0.0.1"
+}
